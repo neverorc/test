@@ -1,4 +1,4 @@
 this is a py
 
 
-print 3
+print master
